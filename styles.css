@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+}
+
+body{
+	border: 1px solid #cecece;
+  	padding: 0px 10px 10px 10px;
+  	box-shadow: 1px 5px 10px 0px #cecece;
+  	width: 300px;
+  	font-family: 'Open Sans', sans-serif;
+  	margin: 10px;
+}
+
+.animal-info{	
+  	padding: 10px 10px 10px 10px;
+}
+
+#card{
+	border: 1px solid #cecece;
+}
+
+img{
+	padding: 0px 0px 10px 0px;
+}
+
+#facts{
+    padding: 0px;  
+}
+
+#interesting-fact{
+ 	font-style: italic; 
+}
+
+span{
+	font-weight: bold; 
+}
+
